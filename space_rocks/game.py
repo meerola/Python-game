@@ -3,6 +3,8 @@ import pygame
 from utils import load_sprite, get_random_position
 from models import SpaceShip, Asteroid
 
+# Comment No. 1
+
 class SpaceRocks:
     MIN_ASTEROID_DISTANCE = 250
     
